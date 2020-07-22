@@ -1,6 +1,13 @@
-<html>
+<!doctype html>
+<html lang="en-US" dir="ltr">
     <head>
+        <meta charset="utf-8">
+        <title>Nikunj Konduru Portfolio</title>
+        <meta name="description" content="">
+        <meta name="application-name" content="Nikunj Konduru Portfolio">
+        <meta name="theme-color" content="hotpink">
 
+        <link rel="stylesheet" href="styles.css">
     </head>
 
     <body>
@@ -11,12 +18,21 @@
 
         </nav>
         <main>
-            <article>
-                Site Coming Soon
-            </article>
+            <h2>
+                Coming Soon
+            </h2>
+            <picture>
+                <source media="(min-width:600px)"
+                        srcset="assets/san_diego_low_res.jpeg 720w,
+                                assets/san_diego.jpg 960w">
+                <source srcset="assets/san_diego_small_low_res.jpeg 320w,
+                                assets/san_diego_small.jpeg 480w">
+                <img width="100%" height="100%" src="assets/san_diego.jpg" alt="nikunj sitting on ledge looking onto the beach">
+            </picture>
         </main>
         <footer>
 
         </footer>
+        <script src="app.js"></script>
     </body>
 </html>
