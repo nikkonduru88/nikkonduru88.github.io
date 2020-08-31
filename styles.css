@@ -9,17 +9,7 @@ h1 {
   margin: 0 0 1rem;
   padding: 0;
   font-weight: 900;
-  font-size: 2.8rem;
-}
-
-@media screen and (min-width: 600px) {
-  h1 {
-    font-size: 4rem;
-  }
-
-  .blm {
-    font-size: 3rem;
-  }
+  font-size: 2.6rem;
 }
 
 .main {
@@ -71,7 +61,21 @@ li {
 }
 
 .blm {
-  font-size: 2.1rem;
+  font-size: 2rem;
   text-align: center;
   margin: 0;
+}
+
+@media screen and (min-width: 600px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  .blm {
+    font-size: 3rem;
+  }
+
+  li {
+    font-size: 1.7rem;
+  }
 }
