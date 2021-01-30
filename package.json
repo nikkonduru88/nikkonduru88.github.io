@@ -2,15 +2,15 @@
   "name": "nikunj-konduru-portfolio",
   "version": "1.0.0",
   "description": "Nikunj Konduru professional portfolio",
-  "homepage": "http://nikkonduru88.github.io/react-gh-pages",
+  "homepage": "http://nikunjkonduru.github.io/react-gh-pages",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikunjkonduru/nikkonduru88.github.io.git"
+    "url": "git+https://github.com/nikunjkonduru/nikunjkonduru.github.io.git"
   },
   "author": "Nikunj Konduru",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nikunjkonduru/nikkonduru88.github.io/issues"
+    "url": "https://github.com/nikunjkonduru/nikunjkonduru.github.io/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
