@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.30edaadb.chunk.css",
-    "main.js": "/gh-pages/static/js/main.2308273a.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.2308273a.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.5e32a485.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.5e32a485.js.map",
-    "static/js/2.40e92c7a.chunk.js": "/gh-pages/static/js/2.40e92c7a.chunk.js",
-    "static/js/2.40e92c7a.chunk.js.map": "/gh-pages/static/js/2.40e92c7a.chunk.js.map",
-    "static/js/3.a23fec57.chunk.js": "/gh-pages/static/js/3.a23fec57.chunk.js",
-    "static/js/3.a23fec57.chunk.js.map": "/gh-pages/static/js/3.a23fec57.chunk.js.map",
-    "index.html": "/gh-pages/index.html",
-    "static/css/main.30edaadb.chunk.css.map": "/gh-pages/static/css/main.30edaadb.chunk.css.map",
-    "static/js/2.40e92c7a.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.40e92c7a.chunk.js.LICENSE.txt",
-    "static/media/Nikunj_Konduru_Resume_v3.94837b71.pdf": "/gh-pages/static/media/Nikunj_Konduru_Resume_v3.94837b71.pdf",
-    "static/media/App.css": "/gh-pages/static/media/san_diego.e91053de.jpg"
+    "main.css": "/static/css/main.1a50a032.chunk.css",
+    "main.js": "/static/js/main.2308273a.chunk.js",
+    "main.js.map": "/static/js/main.2308273a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54d86e29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54d86e29.js.map",
+    "static/js/2.40e92c7a.chunk.js": "/static/js/2.40e92c7a.chunk.js",
+    "static/js/2.40e92c7a.chunk.js.map": "/static/js/2.40e92c7a.chunk.js.map",
+    "static/js/3.a23fec57.chunk.js": "/static/js/3.a23fec57.chunk.js",
+    "static/js/3.a23fec57.chunk.js.map": "/static/js/3.a23fec57.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1a50a032.chunk.css.map": "/static/css/main.1a50a032.chunk.css.map",
+    "static/js/2.40e92c7a.chunk.js.LICENSE.txt": "/static/js/2.40e92c7a.chunk.js.LICENSE.txt",
+    "static/media/Nikunj_Konduru_Resume_v3.94837b71.pdf": "/static/media/Nikunj_Konduru_Resume_v3.94837b71.pdf",
+    "static/media/App.css": "/static/media/san_diego.e91053de.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e32a485.js",
+    "static/js/runtime-main.54d86e29.js",
     "static/js/2.40e92c7a.chunk.js",
-    "static/css/main.30edaadb.chunk.css",
+    "static/css/main.1a50a032.chunk.css",
     "static/js/main.2308273a.chunk.js"
   ]
 }
